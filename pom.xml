@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aluracursos</groupId>
-	<artifactId>ScreenMatch</artifactId>
+	<artifactId>ScreenMatch_Spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ScreenMatch</name>
 	<description>Primer proyecto con Spring</description>
